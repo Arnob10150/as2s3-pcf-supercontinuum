@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# solver outputs (regenerate by running the scripts)
+simulation_data/
+*.npz
+*.csv
+
+# figures produced by the coherence script
+*.pdf
+*.png
+
+.DS_Store
+.idea/
+.vscode/
